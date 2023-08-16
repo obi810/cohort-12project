@@ -1,0 +1,6 @@
+lists of sports:
+football
+volleyball
+hockey
+basketball
+long tennis
