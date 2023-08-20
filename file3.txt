@@ -3,4 +3,6 @@ egusi
 ogbono
 okro
 oha
-vegetable soup
+vegetable soup 
+jellof rice
+fried rice
